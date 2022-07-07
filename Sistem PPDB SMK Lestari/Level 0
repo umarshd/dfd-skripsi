@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-07T08:03:53.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="rlAiTsCT-Ao57ydY_pen" version="20.0.4" type="github">
-  <diagram id="WeFRzcsjgpVWVIM-7cj-" name="Page-1">
-    <mxGraphModel dx="496" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2022-07-07T08:29:54.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="a_Jl2mMsmOZ3jAXj6RU_" version="20.0.4" type="github" pages="2">
+  <diagram id="WeFRzcsjgpVWVIM-7cj-" name="DFD Level 0">
+    <mxGraphModel dx="599" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -55,6 +55,44 @@
         </mxCell>
         <mxCell id="pz5j5FRWGYJrrWo_tbcH-14" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Data Pendaftaran, Hasil Ujian, Hasil PPDB&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="260" y="590" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pz5j5FRWGYJrrWo_tbcH-15" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data Pendaftaran, Hasil Ujian, Hasil PPDB, Data Siswa, Data Petugas PPBD, Data Soal, Data Agama&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pz5j5FRWGYJrrWo_tbcH-16" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Data Login, Data Soal, Data Pendaftaran, Data Siswa, Data Petugas PPDB, Data Agama&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="670" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="JNlosYuf_8kIl0IDzyDO" name="Page-2">
+    <mxGraphModel dx="496" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ssLHxDLHiR_0v1fSzE9U-1" value="Login Admin" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssLHxDLHiR_0v1fSzE9U-2" value="Login Siswa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="120" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssLHxDLHiR_0v1fSzE9U-3" value="Login Petugas PPDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssLHxDLHiR_0v1fSzE9U-4" value="Mengelolah Data Agama" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="330" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ssLHxDLHiR_0v1fSzE9U-5" value="Mengelolah Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ_s-KlSbCSEKMv6ZIG6-1" value="Mengelolah Data Siswa" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sZ_s-KlSbCSEKMv6ZIG6-2" value="Mengelolah Data Petugas" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="540" y="40" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0VNSn2HqU8kZrFBWv18--1" value="Mengelolah Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="40" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
