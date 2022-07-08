@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-08T01:35:42.688Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="zLrua7WeHGcqNcZVc_wo" version="20.0.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-07-08T01:47:34.417Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.66 Safari/537.36" etag="FY0m1HDPQJaVW3gE8MXD" version="20.0.4" type="github" pages="6">
   <diagram id="WeFRzcsjgpVWVIM-7cj-" name="DFD Level 0">
     <mxGraphModel dx="334" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -576,7 +576,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zH1LKtwPdkHSNrsQgIR9" name="DFD Level 2 Proses 1">
-    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -621,7 +621,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6tJf4TOVj8jYtcWr7h-d" name="DFD Level 2 Proses 2">
-    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="403" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -823,6 +823,110 @@
           <mxGeometry x="310" y="367" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXmJnU3sGgU0_rsYgDKU-24" value="Data Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="e7SrlsGHkaXNvTRxSUfM" name="DFD Level 2 Proses 4">
+    <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eylLE-chpKKGf-E6N7n--1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--2" target="eylLE-chpKKGf-E6N7n--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--2" value="4.1&lt;br&gt;Insert Data Petugas &lt;br&gt;PPDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--6" target="eylLE-chpKKGf-E6N7n--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--6" target="eylLE-chpKKGf-E6N7n--12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--6" target="eylLE-chpKKGf-E6N7n--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--6" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--7" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--8" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="279.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="279.71000000000004" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="eylLE-chpKKGf-E6N7n--16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint x="640" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--10" value="petugas_ppdb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--12" value="4.2&lt;br&gt;Upadate Data Petugas&amp;nbsp;&lt;br&gt;PPDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190.00000000000003" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--14" value="4.3&lt;br&gt;Delete Data Petugas&amp;nbsp;&lt;br&gt;PPDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="eylLE-chpKKGf-E6N7n--16" target="eylLE-chpKKGf-E6N7n--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--16" value="4.4&lt;br&gt;View Data&amp;nbsp; Petugas &lt;br&gt;PPDB" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--17" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--18" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--19" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="187" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--20" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--21" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="278" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--22" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="278" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--23" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="367" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eylLE-chpKKGf-E6N7n--24" value="Data Petugas PPDB" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="366" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
