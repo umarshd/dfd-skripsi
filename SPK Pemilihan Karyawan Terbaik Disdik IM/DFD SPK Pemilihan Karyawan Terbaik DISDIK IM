@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-06T16:50:08.375Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_eoEhw3P6ZiXLXr4sfQA" version="20.2.8" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-09-06T23:07:02.664Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8k4o9nHYApDzJI-F2VLt" version="20.2.8" type="github" pages="9">
   <diagram id="BLI19A9mED2jlb3poCL2" name="DFD Level 0">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -885,7 +885,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_BN2lIIHKBVgUEtoGMnr" name="DFD Level 2 Proses 5">
-    <mxGraphModel dx="599" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="496" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1032,6 +1032,9 @@
         <mxCell id="7PsgvPXECCwfMiUt70E1-33" value="Data Prioritas Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="142" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Zxp-sw7dsScW9az-eW9B-1" value="Data Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="15" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -1135,6 +1138,161 @@
         </mxCell>
         <mxCell id="rqUcNi744krBSAgxPx-b-24" value="Data Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="530" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="rtsoa1WSV2dTOolXg5WF" name="DFD Level 2 Proses 7">
+    <mxGraphModel dx="1021" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-3" target="-2gIGxsfQ9_W1F0fXbJB-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;fontSize=9;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="180" />
+            </Array>
+            <mxPoint x="720" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-3" value="7.1&lt;br&gt;Insert Data Perbandingan Sub Kriteria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="100" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-7" target="-2gIGxsfQ9_W1F0fXbJB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-7" target="-2gIGxsfQ9_W1F0fXbJB-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-7" target="-2gIGxsfQ9_W1F0fXbJB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-7" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="200" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="240" as="sourcePoint" />
+            <mxPoint x="680" y="240" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-9" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="279.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="279.71000000000004" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="-2gIGxsfQ9_W1F0fXbJB-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="420" as="targetPoint" />
+            <mxPoint x="640" y="280" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="640" y="400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-11" value="perbandingan_subkriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="625" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-13" value="7.2&lt;br&gt;Update Data Perbandingan Sub Kriteria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="190.00000000000003" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-15" value="7.3&amp;nbsp;&lt;br&gt;Delete Data Perbandingan Sub Kriteria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-17" target="-2gIGxsfQ9_W1F0fXbJB-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-17" value="7.4&lt;br&gt;View Data&amp;nbsp; Perbandingan Sub Kriteria" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-18" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="300" y="100" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-19" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="98" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-20" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="187" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-21" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-22" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="278" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-23" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="320" y="278" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-24" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="310" y="367" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-25" value="Data Perbandingan Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="366" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="40" as="sourcePoint" />
+            <mxPoint x="680" y="40" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-27" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="79.71000000000004" as="sourcePoint" />
+            <mxPoint x="680" y="79.71000000000004" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=9;" edge="1" parent="1" source="-2gIGxsfQ9_W1F0fXbJB-29" target="-2gIGxsfQ9_W1F0fXbJB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-29" value="subkriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="610" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-30" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="160" as="sourcePoint" />
+            <mxPoint x="800" y="160" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-31" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="720" y="199.71000000000004" as="sourcePoint" />
+            <mxPoint x="800" y="199.71000000000004" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-32" value="prioritas_subkriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="730" y="165" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-33" value="Data Prioritas Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="530" y="142" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-2gIGxsfQ9_W1F0fXbJB-34" value="Data Sub Kriteria" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="500" y="24" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
