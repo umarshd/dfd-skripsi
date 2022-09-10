@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T01:16:56.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="v9pbhRYiNOMd3DXUZtC8" version="20.3.0" type="github" pages="15">
+<mxfile host="app.diagrams.net" modified="2022-09-10T01:17:07.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="GMQRVFsQs1-BJkilgFHc" version="20.3.0" type="github" pages="15">
   <diagram id="FPecQ4uA5WIb_HPO_hN5" name="DFD Level 0">
     <mxGraphModel dx="1200" dy="702" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2120,7 +2120,7 @@
         <mxCell id="xxz48sjX_TzF_TksTZxz-2" value="13.1&lt;br&gt;Mengelolah Data Laporan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="xxz48sjX_TzF_TksTZxz-4" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xxz48sjX_TzF_TksTZxz-4" value="Pimpinan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xxz48sjX_TzF_TksTZxz-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
@@ -2141,7 +2141,7 @@
         <mxCell id="xxz48sjX_TzF_TksTZxz-7" value="nasabah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="610" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xxz48sjX_TzF_TksTZxz-9" value="Pimpinan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xxz48sjX_TzF_TksTZxz-9" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="xxz48sjX_TzF_TksTZxz-11" value="Data Nasabah" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
