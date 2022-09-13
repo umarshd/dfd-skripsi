@@ -1,0 +1,1 @@
+ini adalah dfd sistem informasi pengelolaan tabungan koperasi silih asih SMAN 1 MANDIRANCAN
