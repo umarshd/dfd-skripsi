@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-13T13:40:56.926Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="JTgPcdDWGqpmC23yWMss" version="20.3.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-14T12:44:52.391Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="fazx5u3ntVrPnAljQnN4" version="20.3.0" type="github" pages="2">
   <diagram id="BrYhqqJ0hdvoh8PAQUUj" name="DFD Level 0">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
         <mxCell id="uon-amL1ACDhgysqaddN-14" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Login, Data Siswa, Data Pegawai, Data Log Tabungan, Data Role&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="360" width="120" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="uon-amL1ACDhgysqaddN-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Siswa, Data Pegawai, Data Tabungan, Data Log Tabungan, Data Role&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uon-amL1ACDhgysqaddN-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Siswa, Data Pegawai, Data Tabungan, Data Log Tabungan, Data Role, Data Laporan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="370" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="uon-amL1ACDhgysqaddN-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Login, Data Siswa,&amp;nbsp; Data Log Tabungan,&amp;nbsp;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -84,7 +84,7 @@
         <mxCell id="uon-amL1ACDhgysqaddN-19" value="Pimpinan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="40" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uon-amL1ACDhgysqaddN-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Siswa, Laporan Tabungan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uon-amL1ACDhgysqaddN-20" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Log Tabungan, Laporan Tabungan, Data Laporan&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="100" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uon-amL1ACDhgysqaddN-21" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Login&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
