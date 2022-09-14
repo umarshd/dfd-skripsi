@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-14T14:49:31.869Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="GuA8KZ4QRimrBxWoBj_J" version="20.3.0" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2022-09-14T14:51:12.730Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.33" etag="zMndAxEwa1fXj42S9viV" version="20.3.0" type="github" pages="11">
   <diagram id="BrYhqqJ0hdvoh8PAQUUj" name="DFD Level 0">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -381,7 +381,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tnl8pKeuhnCuXHzhxA-w-85" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tnl8pKeuhnCuXHzhxA-w-85" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="720" y="439.58" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="VOsoLMvgGrjzrK4RR4x8-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=10;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tnl8pKeuhnCuXHzhxA-w-89">
@@ -795,7 +795,7 @@
         <mxCell id="aOVfnJOgsdM0W32zpGSd-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;jumpStyle=arc;jumpSize=10;" edge="1" parent="1" source="aOVfnJOgsdM0W32zpGSd-29" target="aOVfnJOgsdM0W32zpGSd-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aOVfnJOgsdM0W32zpGSd-29" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="aOVfnJOgsdM0W32zpGSd-29" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aOVfnJOgsdM0W32zpGSd-30" value="Data Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -954,7 +954,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="EfHwCx5MHWCf0rAesWzI" name="DFD Level 2 Proses 5">
-    <mxGraphModel dx="1240" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1056,7 +1056,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="vBBQEntTq1SzdQpg9Onn-29" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vBBQEntTq1SzdQpg9Onn-29" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vBBQEntTq1SzdQpg9Onn-30" value="Data Log Tabungan" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -1215,7 +1215,7 @@
         <mxCell id="ATuI520ZFz4BzAeRGx6X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ATuI520ZFz4BzAeRGx6X-4" target="ATuI520ZFz4BzAeRGx6X-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ATuI520ZFz4BzAeRGx6X-4" value="Pegawai" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ATuI520ZFz4BzAeRGx6X-4" value="Operator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="360" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ATuI520ZFz4BzAeRGx6X-5" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
