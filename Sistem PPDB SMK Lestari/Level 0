@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-16T05:58:48.101Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="FmWY7bypkciRxBtZ8poT" version="20.4.1" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2022-10-16T06:00:31.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36 Edg/106.0.1370.42" etag="9JeEGEMm4AxTVjMnch74" version="20.4.1" type="github" pages="13">
   <diagram id="WeFRzcsjgpVWVIM-7cj-" name="DFD Level 0">
     <mxGraphModel dx="723" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -821,15 +821,15 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="5NJPWIpXFdQAvBrKq4xv" name="DFD Level 2 Proses 5">
-    <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="5NJPWIpXFdQAvBrKq4xv" name="DFD Level 2 Proses 4">
+    <mxGraphModel dx="599" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="YeilEeIusbSmqvJ7l5Vu-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=-0.167;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="YeilEeIusbSmqvJ7l5Vu-2" target="YeilEeIusbSmqvJ7l5Vu-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YeilEeIusbSmqvJ7l5Vu-2" value="5.1&lt;br&gt;Insert Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="YeilEeIusbSmqvJ7l5Vu-2" value="4.1&lt;br&gt;Insert Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeilEeIusbSmqvJ7l5Vu-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="YeilEeIusbSmqvJ7l5Vu-6" target="YeilEeIusbSmqvJ7l5Vu-2" edge="1">
@@ -886,7 +886,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeilEeIusbSmqvJ7l5Vu-12" value="5.2&lt;br&gt;Update Data Soal&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="YeilEeIusbSmqvJ7l5Vu-12" value="4.2&lt;br&gt;Update Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="190.00000000000003" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeilEeIusbSmqvJ7l5Vu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="YeilEeIusbSmqvJ7l5Vu-14" edge="1">
@@ -897,13 +897,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YeilEeIusbSmqvJ7l5Vu-14" value="5.3&lt;br&gt;Delete Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="YeilEeIusbSmqvJ7l5Vu-14" value="4.3&lt;br&gt;Delete Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="280" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeilEeIusbSmqvJ7l5Vu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="YeilEeIusbSmqvJ7l5Vu-16" target="YeilEeIusbSmqvJ7l5Vu-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YeilEeIusbSmqvJ7l5Vu-16" value="5.4&lt;br&gt;View Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="YeilEeIusbSmqvJ7l5Vu-16" value="4.4&lt;br&gt;View Data Soal" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="370" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YeilEeIusbSmqvJ7l5Vu-17" value="Data Soal" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
@@ -960,7 +960,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="Lk0ihfLWiLzmSakP4AJT" name="DFD Level 2 Proses 6">
+  <diagram id="Lk0ihfLWiLzmSakP4AJT" name="DFD Level 2 Proses 5">
     <mxGraphModel dx="868" dy="520" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -976,7 +976,7 @@
         <mxCell id="IF6dbjShioLPrgBWWYKD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.35;entryY=1.325;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="4Y9noh25e5gpxixEc93X-2" target="IF6dbjShioLPrgBWWYKD-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-2" value="6.1&lt;br&gt;Insert Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="4Y9noh25e5gpxixEc93X-2" value="5.1&lt;br&gt;Insert Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="100" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Y9noh25e5gpxixEc93X-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="4Y9noh25e5gpxixEc93X-6" target="4Y9noh25e5gpxixEc93X-2" edge="1">
@@ -1060,7 +1060,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-13" value="6.2&lt;br&gt;Update Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="4Y9noh25e5gpxixEc93X-13" value="5.2&lt;br&gt;Update Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="260" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Y9noh25e5gpxixEc93X-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="4Y9noh25e5gpxixEc93X-15" edge="1">
@@ -1071,7 +1071,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-15" value="6.3&lt;br&gt;Delete Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="4Y9noh25e5gpxixEc93X-15" value="5.3&lt;br&gt;Delete Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="350" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Y9noh25e5gpxixEc93X-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=8;strokeColor=#000000;elbow=vertical;" parent="1" source="4Y9noh25e5gpxixEc93X-17" target="4Y9noh25e5gpxixEc93X-6" edge="1">
@@ -1085,7 +1085,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-17" value="6.4&lt;br&gt;View Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="4Y9noh25e5gpxixEc93X-17" value="5.4&lt;br&gt;View Data Pendaftaran" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="410" y="440" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4Y9noh25e5gpxixEc93X-18" value="Data Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
@@ -1143,28 +1143,6 @@
         <mxCell id="4Y9noh25e5gpxixEc93X-34" value="Data Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="60" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-35" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560.0000000000002" y="9.599999999999994" as="sourcePoint" />
-            <mxPoint x="640" y="9.599999999999994" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-36" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560.0000000000002" y="49.31000000000003" as="sourcePoint" />
-            <mxPoint x="640" y="49.31000000000003" as="targetPoint" />
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=13;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;strokeColor=#000000;elbow=vertical;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4Y9noh25e5gpxixEc93X-37" target="4Y9noh25e5gpxixEc93X-2" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="80" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="4Y9noh25e5gpxixEc93X-37" value="agama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="570" y="14.599999999999994" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="El5fB2FoSyTfRcuO-vlk-1" value="" style="endArrow=none;html=1;rounded=0;fontSize=8;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="670.0000000000002" y="9.600000000000023" as="sourcePoint" />
@@ -1207,9 +1185,6 @@
         </mxCell>
         <mxCell id="El5fB2FoSyTfRcuO-vlk-13" value="Data Pendaftaran" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="680" y="100" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="El5fB2FoSyTfRcuO-vlk-14" value="Data Agama" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
-          <mxGeometry x="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="El5fB2FoSyTfRcuO-vlk-15" value="Data Siswa" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="480" y="39" width="60" height="30" as="geometry" />
