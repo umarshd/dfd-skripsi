@@ -1,0 +1,1 @@
+ini sistem inventori
