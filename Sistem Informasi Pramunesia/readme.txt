@@ -1,0 +1,1 @@
+ini adalah dfd pramunesia
