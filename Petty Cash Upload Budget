@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-25T12:04:39.998Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ks9aVJTgD-s30rWb6scM" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T05:58:15.805Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JDAVZiksZCRF-_yWyvgk" version="20.8.20" type="github">
   <diagram name="Halaman-1" id="FgHd3PXhvJjuyT3LuRi6">
-    <mxGraphModel dx="1493" dy="810" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,10 @@
         <mxCell id="WLMW-vD0PBWoMTYaJsB0-12" value="AWS S3" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="374" width="60" height="106" as="geometry" />
         </mxCell>
-        <mxCell id="WLMW-vD0PBWoMTYaJsB0-14" value="PettyCash Database" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;rotation=0;" vertex="1" parent="1">
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="WLMW-vD0PBWoMTYaJsB0-14" target="WLMW-vD0PBWoMTYaJsB0-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-14" value="PettyCash Database&lt;br&gt;Upload Budget" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="600" width="60" height="106" as="geometry" />
         </mxCell>
         <mxCell id="WLMW-vD0PBWoMTYaJsB0-16" value="Upload and store csv" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
@@ -70,20 +73,26 @@
         <mxCell id="WLMW-vD0PBWoMTYaJsB0-17" value="Kafka Proses Message" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="515" y="680" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WLMW-vD0PBWoMTYaJsB0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="WLMW-vD0PBWoMTYaJsB0-19" target="WLMW-vD0PBWoMTYaJsB0-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="WLMW-vD0PBWoMTYaJsB0-19" target="WLMW-vD0PBWoMTYaJsB0-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="780" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="880" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="WLMW-vD0PBWoMTYaJsB0-23" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;" vertex="1" connectable="0" parent="WLMW-vD0PBWoMTYaJsB0-21">
           <mxGeometry x="-0.8341" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WLMW-vD0PBWoMTYaJsB0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="1" source="WLMW-vD0PBWoMTYaJsB0-19" target="WLMW-vD0PBWoMTYaJsB0-14">
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;entryX=0;entryY=1;entryDx=0;entryDy=-15;entryPerimeter=0;" edge="1" parent="1" source="WLMW-vD0PBWoMTYaJsB0-19" target="WLMW-vD0PBWoMTYaJsB0-14">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="820" as="targetPoint" />
             <Array as="points">
               <mxPoint x="555" y="940" />
-              <mxPoint x="310" y="940" />
-              <mxPoint x="310" y="653" />
+              <mxPoint x="300" y="940" />
+              <mxPoint x="300" y="691" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -94,6 +103,12 @@
         </mxCell>
         <mxCell id="WLMW-vD0PBWoMTYaJsB0-19" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;is exist ?&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="515" y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-27" value="Insert Data&amp;nbsp;&lt;br&gt;1. CDN Url&lt;br&gt;2. Upsert Masted Budget (False)&lt;br&gt;3. ValidateUpsert(False)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="190" y="560" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WLMW-vD0PBWoMTYaJsB0-29" value="PettyCash Database&lt;br&gt;Master Budget" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=10;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="60" height="106" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
