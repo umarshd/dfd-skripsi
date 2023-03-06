@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T04:12:07.241Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="j17jKFw92vlAqaz6ghnc" version="20.8.20" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:49:05.959Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Ppni8ux42CUZ8VItFWkD" version="20.8.23" type="github" pages="12">
   <diagram name="DFD Level 0" id="Zpt_c_6f1kD4TALoROLF">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,7 +58,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x9zfBjuhFL9sHRFNlcbv" name="DFD Level 1">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -210,6 +210,14 @@
             <mxPoint x="480" y="220" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Xf_Pe6Jsmcty9z0wdFqz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bprcSwUdojB7hW4K0r60-36" target="bprcSwUdojB7hW4K0r60-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="280" />
+              <mxPoint x="320" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="bprcSwUdojB7hW4K0r60-36" value="kota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="490" y="204.66" width="60" height="30" as="geometry" />
         </mxCell>
@@ -350,7 +358,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bprcSwUdojB7hW4K0r60-63" value="Petugas Gudang" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
+        <mxCell id="bprcSwUdojB7hW4K0r60-63" value="Pemandu" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="kpfEWLbnv5YkKCSFF85p-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="bprcSwUdojB7hW4K0r60-66" target="bprcSwUdojB7hW4K0r60-11" edge="1">
@@ -458,11 +466,14 @@
         <mxCell id="kpfEWLbnv5YkKCSFF85p-15" value="Data Kota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" parent="1" vertex="1">
           <mxGeometry x="384" y="129" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Xf_Pe6Jsmcty9z0wdFqz-2" value="Data Kota" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="400" y="244" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="_jb6VGsV89ebzBvYAT_D" name="DFD level 2 Proses 1">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -495,10 +506,10 @@
         <mxCell id="jem47ibSSxRXPXdATxh9-7" value="admin" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="610" y="285" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K4VKqtlL719-lmqW0Y4P-1" value="Data Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K4VKqtlL719-lmqW0Y4P-1" value="Data Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="260" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K4VKqtlL719-lmqW0Y4P-2" value="Data Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="K4VKqtlL719-lmqW0Y4P-2" value="Data Login" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="510" y="260" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
@@ -606,7 +617,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Dny_YfNbLOoemq6mfcHh" name="DFD Level 2 Proses 3">
-    <mxGraphModel dx="1194" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
