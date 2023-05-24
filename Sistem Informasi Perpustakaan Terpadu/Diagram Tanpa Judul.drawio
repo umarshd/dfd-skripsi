@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T04:00:48.254Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="2_nKCj380zc3ZgHm4D25" version="21.3.2" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2023-05-24T04:03:49.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="E9fCItnD8M6QIVr0Cxxf" version="21.3.2" type="github" pages="24">
   <diagram name="DFD Level 0" id="lx2PP_SFCcfcnPE3F1QS">
     <mxGraphModel dx="1590" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -4493,7 +4493,98 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Salinan Mengelolah Data Loan Member" id="h2JZxxRfKopA4j5pVR2g">
+  <diagram name="Salinan Mengelolah Data Loan Member" id="hGWl0XebDzQ7kaTfooal">
+    <mxGraphModel dx="954" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+      <root>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-0" />
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-1" parent="xi-TOzyAXfLIp42sfuBr-0" />
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-2" value="Users" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-1">
+          <mxGeometry x="40" y="60" width="200" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-3" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-2" source="xi-TOzyAXfLIp42sfuBr-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Start&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="60" y="70" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-5" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="380" as="sourcePoint" />
+            <mxPoint x="100" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZdXsDoCnsA-24wyxJav-0" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-2" source="xi-TOzyAXfLIp42sfuBr-6" target="xi-TOzyAXfLIp42sfuBr-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-6" value="Login" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;arcSize=30;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="40" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-7" value="Halaman Laporan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;arcSize=30;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-8" value="Memfilter Laporan dan Unduh" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;arcSize=30;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-9" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-2" source="xi-TOzyAXfLIp42sfuBr-10" target="xi-TOzyAXfLIp42sfuBr-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-10" value="Halaman Laporan" style="whiteSpace=wrap;html=1;fontSize=11;rounded=1;arcSize=30;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="40" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;End&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-2">
+          <mxGeometry x="60" y="740" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-12" value="Sistem" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-1">
+          <mxGeometry x="240" y="60" width="200" height="820" as="geometry" />
+        </mxCell>
+        <mxCell id="FZdXsDoCnsA-24wyxJav-1" value="Menampilkan Data Laporan" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;arcSize=30;" vertex="1" parent="xi-TOzyAXfLIp42sfuBr-12">
+          <mxGeometry x="40" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-17" value="" style="group" vertex="1" connectable="0" parent="xi-TOzyAXfLIp42sfuBr-1">
+          <mxGeometry x="90" y="270" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-18" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-19" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="20" as="sourcePoint" />
+            <mxPoint x="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-20" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="20" as="sourcePoint" />
+            <mxPoint x="20" y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-21" value="" style="endArrow=none;html=1;rounded=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;shape=connector;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="10" as="sourcePoint" />
+            <mxPoint y="10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xi-TOzyAXfLIp42sfuBr-22" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-1" source="xi-TOzyAXfLIp42sfuBr-8" target="FZdXsDoCnsA-24wyxJav-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FZdXsDoCnsA-24wyxJav-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="xi-TOzyAXfLIp42sfuBr-1" source="FZdXsDoCnsA-24wyxJav-1" target="xi-TOzyAXfLIp42sfuBr-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Mengupdate Data Profile" id="h2JZxxRfKopA4j5pVR2g">
     <mxGraphModel dx="954" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="4r767LVoxaJQF0UbZLH4-0" />
