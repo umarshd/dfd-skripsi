@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T04:03:49.053Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="E9fCItnD8M6QIVr0Cxxf" version="21.3.2" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2023-05-24T04:25:36.599Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="KfULIf4zzPZ2OltzdiFE" version="21.3.2" type="github" pages="24">
   <diagram name="DFD Level 0" id="lx2PP_SFCcfcnPE3F1QS">
     <mxGraphModel dx="1590" dy="1080" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -2035,7 +2035,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ZnL3KVQUtKO9ArGiiZLn" name="ERD">
-    <mxGraphModel dx="2726" dy="1851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2726" dy="1383" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2631,7 +2631,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_BY-e3mgZCZUwErsE1P3" name="Mengelolah Data User Group">
-    <mxGraphModel dx="1363" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2776,7 +2776,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="ife14QDingKQJJqu_-7S" name="Mengelolah Data Users">
-    <mxGraphModel dx="1272" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2921,7 +2921,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="BwrtRTTC5_-Ku30whOns" name="Mengelolah Data Perpustakaan">
-    <mxGraphModel dx="1193" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3066,7 +3066,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6bBMyo3kA7X75CV2O_wh" name="Mengelolah Data Role Author">
-    <mxGraphModel dx="1272" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3211,7 +3211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="eqriSXLY3uZEmlvQpnDN" name="Mengelolah Data Author">
-    <mxGraphModel dx="909" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="2385" dy="1210" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3356,7 +3356,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mengelolah Data Penerbit" id="zWr4pLrFOcLnoFrGpVCw">
-    <mxGraphModel dx="1590" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1590" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="OeGiDD4BXRxp96-NWEnu-0" />
         <mxCell id="OeGiDD4BXRxp96-NWEnu-1" parent="OeGiDD4BXRxp96-NWEnu-0" />
@@ -3501,7 +3501,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mengelolah Data Biblio" id="hXiF5Bh7Sj92pNO_w0DX">
-    <mxGraphModel dx="1122" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="EISyTTsy8s1CIEwOrlZs-0" />
         <mxCell id="EISyTTsy8s1CIEwOrlZs-1" parent="EISyTTsy8s1CIEwOrlZs-0" />
@@ -3646,7 +3646,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mengelolah Data Biblio Has Role Author" id="7BkShgck_1oBMdVby3jM">
-    <mxGraphModel dx="1193" dy="676" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1193" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="N6NkyDJfU-PK9XrOxhEW-0" />
         <mxCell id="N6NkyDJfU-PK9XrOxhEW-1" parent="N6NkyDJfU-PK9XrOxhEW-0" />
@@ -3804,7 +3804,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vBN6m3Er6WaANa9Q-SW3" name="Mengelolah Data Item">
-    <mxGraphModel dx="795" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="795" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -3949,7 +3949,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mengelolah Data Member Type" id="g3Q7hpOHckzDvovuiLRD">
-    <mxGraphModel dx="1468" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1468" dy="745" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="pSDUERiU1mkNdQ0q6JYh-0" />
         <mxCell id="pSDUERiU1mkNdQ0q6JYh-1" parent="pSDUERiU1mkNdQ0q6JYh-0" />
@@ -4094,7 +4094,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="V03O1TJ9iY9mv1WGU71L" name="Mengelolah Data Member">
-    <mxGraphModel dx="1363" dy="773" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="691" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4239,7 +4239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="uzq8lux2foAQWpr9ER8w" name="Mengelolah Data RFID">
-    <mxGraphModel dx="1060" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1060" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4384,7 +4384,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Mengelolah Data Loan Member" id="imIyORSRYjAdoEuQLk_X">
-    <mxGraphModel dx="1122" dy="636" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="Y8hENmcZl3n0f9_3ickl-0" />
         <mxCell id="Y8hENmcZl3n0f9_3ickl-1" parent="Y8hENmcZl3n0f9_3ickl-0" />
@@ -4493,8 +4493,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Salinan Mengelolah Data Loan Member" id="hGWl0XebDzQ7kaTfooal">
-    <mxGraphModel dx="954" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+  <diagram name="Mengelolah Data Laporan" id="hGWl0XebDzQ7kaTfooal">
+    <mxGraphModel dx="954" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="xi-TOzyAXfLIp42sfuBr-0" />
         <mxCell id="xi-TOzyAXfLIp42sfuBr-1" parent="xi-TOzyAXfLIp42sfuBr-0" />
