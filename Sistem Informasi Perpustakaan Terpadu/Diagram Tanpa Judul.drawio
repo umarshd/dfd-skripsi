@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-14T11:29:16.804Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="Q2Wa0bDeErTdg3isYWzg" version="21.3.8" type="github" pages="46">
+<mxfile host="app.diagrams.net" modified="2023-07-16T21:18:50.876Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="P3p-eE5Tb1JIAhddtso2" version="21.3.8" type="github" pages="46">
   <diagram name="DFD Level 0" id="lx2PP_SFCcfcnPE3F1QS">
     <mxGraphModel dx="954" dy="648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -3382,7 +3382,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F1xLfDfbXMgrSL3WBMP8" name="DFD Level 1">
-    <mxGraphModel dx="1193" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6594,7 +6594,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="huHv5dL-IRU_t6c4t6uV" name="DFD Level 2 Proses 14">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6632,7 +6632,7 @@
         <mxCell id="c9Iu5HrChZ2CvkXOH6HA-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4fboqr2hN3Bvsa-_MKYa-13" target="c9Iu5HrChZ2CvkXOH6HA-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4fboqr2hN3Bvsa-_MKYa-13" value="14.4&lt;br&gt;View Data Loan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="4fboqr2hN3Bvsa-_MKYa-13" value="14.3&lt;br&gt;View Data Loan" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="665" y="566.27" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="4fboqr2hN3Bvsa-_MKYa-14" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -6917,7 +6917,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="17-nd2xSjeYiPzSNSK3x" name="DFD Level 2 Proses 18">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6960,7 +6960,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Shhih2txnC-fz2fOMSns" name="DFD Level 2 Proses 19">
-    <mxGraphModel dx="954" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -6969,7 +6969,7 @@
             <mxPoint x="610" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfmXB2GPx3ymG82BcKtT-2" value="19.1&lt;br&gt;Insert Kunjungan Onsite Non Member" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="FfmXB2GPx3ymG82BcKtT-2" value="19.1&lt;br&gt;Insert Kunjungan Onsite Member" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="400" y="260" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FfmXB2GPx3ymG82BcKtT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="FfmXB2GPx3ymG82BcKtT-4" target="FfmXB2GPx3ymG82BcKtT-2" edge="1">
@@ -6990,7 +6990,7 @@
             <mxPoint x="760" y="319" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FfmXB2GPx3ymG82BcKtT-7" value="kunjungan_onsite_non_member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="FfmXB2GPx3ymG82BcKtT-7" value="kunjungan_onsite_member" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="620" y="284" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="FfmXB2GPx3ymG82BcKtT-8" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 11px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Data Kunjungan Onsite Member&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
